@@ -17,3 +17,5 @@ BLS_ID_MAP_SA = {
     "CES8000000001": "Other Services",
     "CES9000000001": "Government"
 }
+
+FRED_API_KEY = "86d01b16f35f03efc77114c78a4a1124"
